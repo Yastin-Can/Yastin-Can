@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Yastin 👨‍💻
 
 <p align="center">
-  <img src="https://yourimageurl.com/image.png" width="150">
+  <img src="https://i.pinimg.com/originals/65/90/69/6590694d365cf69ac918b9438a4067c6.gif" width="100%" height='300vh'>
 </p>
 
 ## Sobre mí
@@ -11,16 +11,25 @@ Soy un desarrollador de **Chile** con un enfoque continuo en el aprendizaje y la
 
 ### 💼 Habilidades
 
-<p>
+#### 🛠️ Lenguajes de Programación
+<p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> 
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>  
-  <img width="66" height="66" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
-  <img width="66" height="66" src="https://img.icons8.com/color/96/mysql-logo.png" alt="mysql-logo"/>  
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> 
-  <img width="48" height="48" src="https://img.icons8.com/officel/80/github.png" alt="github"/>
+</p>
+
+#### ⚙️ Frameworks y Bibliotecas
+<p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React"/>  
+  <img width="66" height="66" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
+</p>
+
+#### 🗄️ Bases de Datos
+<p align="center">
+  <img width="66" height="66" src="https://img.icons8.com/color/96/mysql-logo.png" alt="mysql-logo"/>  
 </p>
 
 ---
@@ -34,8 +43,6 @@ Soy un desarrollador de **Chile** con un enfoque continuo en el aprendizaje y la
 
 ### 🚀 Proyectos
 - [Kiosco Saludable](https://github.com/Yastin-Can/KS): Una plataforma que promueve opciones alimenticias saludables y accesibles para estudiantes, con integración de sistema de puntos y descuentos.
-- [Nombre del Proyecto 2](https://github.com/Yastin-Can/proyecto2): Breve descripción del proyecto 2.
-- [Nombre del Proyecto 3](https://github.com/Yastin-Can/proyecto3): Breve descripción del proyecto 3.
 
 ---
 
@@ -59,11 +66,3 @@ Soy un desarrollador de **Chile** con un enfoque continuo en el aprendizaje y la
   <img src="https://github-readme-stats.vercel.app/api?username=Yastin-Can&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yastin-Can&layout=compact&theme=radical" alt="Lenguajes de programación más utilizados">
 </p>
-
----
-
-### 📝 Blog o Artículos
-- [Título del Artículo 1](enlace-al-articulo-1): Breve descripción del artículo.
-- [Título del Artículo 2](enlace-al-articulo-2): Breve descripción del artículo.
-
----
