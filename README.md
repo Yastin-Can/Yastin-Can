@@ -8,7 +8,7 @@
 Soy un desarrollador de **Chile** con un enfoque continuo en el aprendizaje y la implementación de soluciones tecnológicas avanzadas. Mi experiencia abarca el desarrollo de aplicaciones móviles, sitios web y proyectos de comercio electrónico, destacándome en el uso de tecnologías modernas como **Python**, **Flask**, **Flutter**, y **React**.
 
 ### 💼 Habilidades
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
     <br />
