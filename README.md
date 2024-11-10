@@ -24,7 +24,7 @@ Soy un desarrollador de **Chile** con un enfoque continuo en el aprendizaje y la
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React"/>  
-  <img width="66" height="66" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
+  <img width="60" height="60" src="https://img.icons8.com/ios/50/FFFFFF/flask.png" alt="flask"/>
 </p>
 
 #### 🗄️ Bases de Datos
