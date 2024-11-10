@@ -10,46 +10,18 @@ Soy un desarrollador de **Chile** con un enfoque continuo en el aprendizaje y la
 ---
 
 ### 💼 Habilidades
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; max-width: 800px;">
-    <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 100px;">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
-      <span>Dart</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 100px;">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-      <span>Python</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 100px;">
-      <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
-      <span>JavaScript</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 100px;">
-      <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="react"/>
-      <span>React</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 100px;">
-      <img width="64" height="64" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
-      <span>Flask</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 100px;">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql"/>
-      <span>MySQL</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 100px;">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
-      <span>HTML</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 100px;">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css"/>
-      <span>CSS</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 100px;">
-      <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
-      <span>GitHub</span>
-    </div>
-  </div>
-</div>
+
+<p>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> 
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>  
+  <img width="66" height="66" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
+  <img width="66" height="66" src="https://img.icons8.com/color/96/mysql-logo.png" alt="mysql-logo"/>  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> 
+  <img width="48" height="48" src="https://img.icons8.com/officel/80/github.png" alt="github"/>
+</p>
 
 ---
 
