@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Yastin 👨‍💻
+# 👋 ¡Hola! Me llamo Yastin 👨‍💻
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/65/90/69/6590694d365cf69ac918b9438a4067c6.gif" width="100%" height='300vh'>
