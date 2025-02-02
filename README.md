@@ -13,7 +13,7 @@ Soy un desarrollador de **Chile** con un enfoque continuo en el aprendizaje y la
 
 #### 🛠️ Lenguajes de Programación
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> 
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
