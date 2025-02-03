@@ -23,7 +23,7 @@ Soy un desarrollador de **Chile** con un enfoque continuo en el aprendizaje y la
 
 #### ⚙️ Frameworks y Bibliotecas
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="django"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/39ff14/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-bold-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-bold-tal-revivo"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React"/>  
   <img width="60" height="60" src="https://img.icons8.com/ios/50/FFFFFF/flask.png" alt="flask"/>
