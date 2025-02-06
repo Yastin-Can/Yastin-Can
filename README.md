@@ -37,7 +37,7 @@ Soy un desarrollador de **Chile** con un enfoque continuo en el aprendizaje y la
 ---
 
 ### 🌱 Actualmente Aprendiendo
-- Creación de aplicaciones móviles y web escalables usando **Flutter** y **Node.js**.
+- Creación de aplicaciones móviles y web escalables usando **React**,  **Flutter** y **Node.js**.
 - Optimización de bases de datos y prácticas avanzadas de **MySQL** y **MongoDB**.
 - Desarrollo de interfaces interactivas y reactivas con **React.js** para mejorar la experiencia de usuario.
 
