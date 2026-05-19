@@ -75,6 +75,6 @@ Soy estudiante de **Ingeniería en Informática** en la Pontificia Universidad C
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yastin-Can&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yastin-Can&layout=compact&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Yastin-Can&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Yastin-Can&layout=compact&theme=radical" alt="Lenguajes más usados">
 </p>
