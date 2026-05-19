@@ -46,11 +46,18 @@ Soy estudiante de **Ingeniería en Informática** en la Pontificia Universidad C
 
 ---
 
-## 🌟 Experiencia
+## 🌟 Experiencia y Proyectos
 
-- 📱 **[Sitios Webs]** – App móvil para mejorar la productividad.
-- 🍎 **[Kiosco Saludable](https://github.com/Yastin-Can/KS)** – Plataforma educativa para hábitos saludables.
-- 💡 **[CS50 Mini‑Projects](https://github.com/code50/178800974)** – Resoluciones estructuradas y comentadas de los PSETs.
+### 💼 Experiencia en Proyectos Reales
+- 👥 **Repartes** | **Desarrollador Full-Stack** Diseño de interfaz en **React** y desarrollo backend en **Django**. Gestión y administración de bases de datos con **Beekeeper Studio**.
+  
+- 🏃‍♂️ **ServiMatch** | **Diseñador UI/UX** Prototipado y desarrollo de la capa visual responsiva utilizando **Dart** / **Flutter**.
+
+- 🌐 **Desarrollo Web Freelance** Creación de sitios web corporativos (hoteles y restaurantes) optimizados para móviles y SEO local.
+
+### 🚀 Proyectos Destacados e Individuales
+- 🍎 **[Kiosco Saludable](https://github.com/Yastin-Can/KS)** – Plataforma educativa interactiva para promover hábitos alimenticios.
+- 💡 **[CS50 Mini‑Projects](https://github.com/code50/178800974)** – Solución de algoritmos complejos y estructuras de datos en **C** (Harvard).
 
 ---
 
