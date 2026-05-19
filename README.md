@@ -67,7 +67,7 @@ Soy estudiante de **Ingeniería en Informática** en la Pontificia Universidad C
 <p align="center">
   <a href="https://www.linkedin.com/in/yastin-villarroel/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="30" alt="LinkedIn"></a>
   <a href="mailto:yastinvillarroel2005@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="30" alt="Email"></a>
-  <a href="https://wa.me/56922326630" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/15707/15707820.png" width="30" alt="WhatsApp"></a>
+  <a href="https://wa.me/56932171655" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/15707/15707820.png" width="30" alt="WhatsApp"></a>
 </p>
 
 ---
