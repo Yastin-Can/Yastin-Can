@@ -46,9 +46,9 @@ Soy estudiante de **Ingeniería en Informática** en la Pontificia Universidad C
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🌟 Experiencia
 
-- 📱 **[Reclaim App](https://github.com/Yastin-Can/reclaim)** – App móvil para mejorar la productividad.
+- 📱 **[Sitios Webs]** – App móvil para mejorar la productividad.
 - 🍎 **[Kiosco Saludable](https://github.com/Yastin-Can/KS)** – Plataforma educativa para hábitos saludables.
 - 💡 **[CS50 Mini‑Projects](https://github.com/code50/178800974)** – Resoluciones estructuradas y comentadas de los PSETs.
 
